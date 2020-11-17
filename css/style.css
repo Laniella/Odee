@@ -1,0 +1,34 @@
+body {
+  background-color: #363636;
+  color: #99d8d0;
+  font-family: 'Open Sans', sans-serif;
+
+}
+hr {
+  color: #ffbcbc;
+  border-style: dotted none none none;
+  border-width: 5px;
+  height: 0;
+  width: 3%;
+}
+.cooltable{
+  padding: 10px;
+  border-style: solid;
+  border-color: #ffbcbc;
+  border-collapse: collapse;
+}
+table{
+  padding: 8px;
+}
+a {
+  color: #ffbcbc;
+}
+h1{
+  color: #ffbcbc;
+  font-family: 'Lato', sans-serif;
+}
+h3{
+  color: #ffbcbc;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
