@@ -2,7 +2,9 @@ body {
   background-color: #363636;
   color: #99d8d0;
   font-family: 'Open Sans', sans-serif;
-
+  padding-top: 20px;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 hr {
   color: #ffbcbc;
@@ -23,6 +25,11 @@ table{
 a {
   color: #ffbcbc;
 }
+
+a:hover{
+  background-color: #99d8d0;
+  color: #363636;
+}
 h1{
   color: #ffbcbc;
   font-family: 'Lato', sans-serif;
@@ -31,4 +38,24 @@ h3{
   color: #ffbcbc;
   font-family: 'Lato', sans-serif;
   text-align: center;
+}
+input{
+  color: white;
+  background-color: #363636;
+  border-color: #99d8d0;
+  border-style: solid;
+  font-family: 'Open Sans', sans-serif;
+  border-width: thin;
+}
+textarea{
+  color: white;
+  background-color: #363636;
+  border-color: #99d8d0;
+  border-style: solid;
+  font-family: 'Open Sans', sans-serif;
+}
+.submit{
+  color: #363636;
+  background-color: #ffbcbc;
+  border-style: none;
 }
